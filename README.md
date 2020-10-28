@@ -208,3 +208,5 @@ A video demonstrating the entirety of the app's functionality
 
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+![Employee Summary Demo](EmployeeSummary.gif)
